@@ -1,4 +1,4 @@
-@TimescaleProject_HostAddress = http://localhost:5170/swagge
+@TimescaleProject_HostAddress = http://localhost:5170/swagger
 
 GET {{TimescaleProject_HostAddress}}/weatherforecast/
 Accept: application/json
